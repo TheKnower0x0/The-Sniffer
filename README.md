@@ -1,4 +1,3 @@
-# The Sniffer
 # CodeAlpha Cyber Security First Task Internship
 # Basic Network Sniffer
 
